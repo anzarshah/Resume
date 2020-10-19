@@ -1,0 +1,35 @@
+.u-section-1 .u-sheet-1 {min-height: 600px}
+.u-section-1 .u-layout-wrap-1 {width: 1140px; margin: 0 auto}
+.u-section-1 .u-layout-cell-1 {min-height: 600px}
+.u-section-1 .u-container-layout-1 {padding: 30px}
+.u-section-1 .u-text-1 {font-weight: 700; font-size: 6rem; animation-duration: 1000ms; margin: 56px 246px 0 0}
+.u-section-1 .u-text-2 {animation-duration: 1000ms; margin: 30px 0 0}
+.u-section-1 .u-shape-1 {width: 102px; height: 102px; background-image: none; animation-duration: 1000ms; margin: 30px 0 0 auto}
+.u-section-1 .u-image-1 {min-height: 600px; background-image: url("images/Screenshot_2020-07-05-23-07-15-972_com.miui.gallery.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-2 {padding: 30px 80px 30px 30px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 495px}
+.u-section-1 .u-layout-wrap-1 {width: 940px}
+.u-section-1 .u-layout-cell-1 {min-height: 495px}
+.u-section-1 .u-text-1 {margin-right: 198px}
+.u-section-1 .u-text-2 {line-height: 22px}
+.u-section-1 .u-image-1 {min-height: 495px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 379px}
+.u-section-1 .u-layout-wrap-1 {width: 720px}
+.u-section-1 .u-layout-cell-1 {min-height: 100px}
+.u-section-1 .u-text-1 {font-size: 3rem; margin-right: 145px}
+.u-section-1 .u-image-1 {min-height: 379px}
+.u-section-1 .u-container-layout-2 {padding-right: 30px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 669px}
+.u-section-1 .u-layout-wrap-1 {width: 540px}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-text-1 {margin-right: 251px}
+.u-section-1 .u-image-1 {min-height: 569px}
+.u-section-1 .u-container-layout-2 {padding-right: 10px; padding-left: 10px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 458px}
+.u-section-1 .u-layout-wrap-1 {width: 340px}
+.u-section-1 .u-text-1 {margin-right: 154px}
+.u-section-1 .u-image-1 {min-height: 358px} }
